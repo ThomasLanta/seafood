@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link type="text/css" rel="stylesheet" href="seafood websitecss.css"/>
+</head>
+<body style="background-color:#baddff">
+  <center>
+  <h1 id="heading"> Welcome to the Pearl of the Sea! </h1>
+  <p> <a href="seafood website"> Home  <a href="Contact Us.html"> Contact Us  <a href="menu.html"> Menu  <a href="Reservation.html"> Team <a href="Deals of the Day.html"> Deals of the Day </p>
+
+  <img id="main_image" height="300px" width="400px" src="http://www.lovepearl.com/images/usehelp/5.jpg">
+  <table border="2px">
+  <thead>
+    <tr>
+      <th colspan="2"> Open Hours </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Sunday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Monday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Tuesday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Wednesday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Thursday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Friday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+    <tr>
+      <td> Saturday </td>
+      <td> 9:00am-9:00pm </td>
+    </tr>
+  </tbody>
+  </center>
+</body>
+</html>
